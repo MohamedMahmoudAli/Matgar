@@ -1,6 +1,6 @@
 # Matgar
 
-![ Matgar](Readme/2 copy.jpg)
+![ Matgar](Readme/2.jpg)
 ![](Readme/5.jpg)
 ![ ](Readme/3.jpg)
 ![ ](Readme/7.jpg)
