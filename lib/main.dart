@@ -77,7 +77,7 @@ class MyApp extends StatelessWidget {
           return MaterialApp(
             theme: lightTheme,
             darkTheme: darkTheme,
-            themeMode: ModeCubit.get(context).isDark
+            themeMode:ModeCubit.get(context).isDark
                 ? ThemeMode.dark
                 : ThemeMode.light,
             debugShowCheckedModeBanner: false,
